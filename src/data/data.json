@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Fortune's Favourite",
+    "paragraph": "The name is of Indian (Sanskrit) origin and means 'Fortune's favorite'. It reflects virtues or desirable qualities, suggesting good luck or somebody favored by the fortune as a result of one's courageous or bold actions."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "The Eraya Foundation aims to focus on education, children, and overall community development, emphasizing togetherness. We firmly believe in what Eraya embodies: 'The Fortune's Favorite.' Our strong intent is to instill positive values, essential skills, and the best knowledge, fostering the propagation of ideas and beliefs among all. Together, we can bring out the best in each other. And always remember, Fortune favors the 'BOLD'.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -99,9 +99,9 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
+      "img": "img/team/vritti.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Vritti Piplani"
     },
     {
       "img": "img/testimonials/02.jpg",
@@ -131,9 +131,9 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/vritti.png",
+      "name": "Vritti Piplani",
+      "job": "Founder"
     },
     {
       "img": "img/team/02.jpg",
@@ -155,8 +155,8 @@
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
+    "instagram": "https://www.instagram.com/eraya_foundation/",
+    "linkedin": "https://www.linkedin.com/company/eraya-foundation/",
     "youtube": "youtube.com"
   },
   "Features": [
