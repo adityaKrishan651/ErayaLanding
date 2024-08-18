@@ -110,14 +110,15 @@
       "name": "Dr Prabhat Sharma"
     },
     {
-      "img": "img/testimonials/default.png",
+      "img": "img/testimonials/puneet.jpg",
       "text": "I am deeply moved by the impactful work being done by the Eraya Foundation, founded and led by the visionary Dr. Vritti. Her tireless dedication, along with her extraordinary team, is nothing short of inspiring.",
       "name": "Puneet Kumar"
     },
     {
-      "img": "img/testimonials/default.png",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/deepanshu.jpg",
+      "text": "When we see the society in today's scenario, it is very difficult to see the organisation who works selflessly,but when I got to know about the working of Eraya foundation led by two sisters with an aim to help the needy people and underprivileged children, It was really inspiring.",
+      "name": "Deepanhu Bansal",
+      "position": "Distt Chairman Haryana Pradesh Congress"
     }
   ],
   "Team": [
@@ -144,30 +145,30 @@
   ],
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "phone": "+91 85708 34459",
+    "email": "erayafoundation@gmail.com",
     "instagram": "https://www.instagram.com/eraya_foundation/",
     "linkedin": "https://www.linkedin.com/company/eraya-foundation/",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-notes-medical",
+      "title": "Empowering Education",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-school",
+      "title": "Education",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-tooth",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-user",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }

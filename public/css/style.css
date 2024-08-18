@@ -428,6 +428,14 @@ header .intro-text {
   position: relative;
   overflow: hidden;
 }
+
+.testimonial-position {
+  margin-bottom: 0;
+  font-size: 12px;
+  font-style: italic;
+  color: #666;
+}
+
 .testimonial-content p {
   margin-bottom: 0;
   font-size: 14px;
