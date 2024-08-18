@@ -90,9 +90,14 @@
   ],
   "Testimonials": [
     {
-      "img": "img/team/vritti.png",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Vritti Piplani"
+      "img": "img/testimonials/puneet.jpg",
+      "text": "Eraya Foundation, led by the visionary Dr. Vritti along with her extraordinary team, is nothing short of inspiring.",
+      "name": "Puneet Kumar"
+    },
+    {
+      "img": "img/testimonials/ayush.jpg",
+      "text": "The team's unwavering commitment is truly remarkable. By giving education and necessary resources that open up a world of options, Eraya is significantly improving the lives of youngsters and improving communities.",
+      "name": "Aayush Sehgal"
     },
     {
       "img": "img/testimonials/default.png",
@@ -108,11 +113,6 @@
       "img": "img/testimonials/prabhat.jpg",
       "text": "I am constantly inspired by the Eraya Foundation, under the remarkable leadership of my friend Dr. Vritti. Her dedication, along with her incredible team, is truly transforming lives. They pour their hearts into educating and informing children from underprivileged communities, opening doors to opportunities these young minds might not have otherwise.",
       "name": "Dr Prabhat Sharma"
-    },
-    {
-      "img": "img/testimonials/puneet.jpg",
-      "text": "I am deeply moved by the impactful work being done by the Eraya Foundation, founded and led by the visionary Dr. Vritti. Her tireless dedication, along with her extraordinary team, is nothing short of inspiring.",
-      "name": "Puneet Kumar"
     },
     {
       "img": "img/testimonials/deepanshu.jpg",
@@ -154,22 +154,22 @@
   "Features": [
     {
       "icon": "fa fa-notes-medical",
-      "title": "Empowering Education",
+      "title": "Period Positive",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-school",
-      "title": "Education",
+      "title": "Educate to Empower",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-tooth",
-      "title": "Lorem ipsum",
+      "title": "Healthy Smiles",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-user",
-      "title": "Lorem ipsum",
+      "title": "Building a Community",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]
