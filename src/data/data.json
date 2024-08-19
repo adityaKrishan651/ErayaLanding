@@ -100,6 +100,22 @@
       "name": "Aayush Sehgal"
     },
     {
+      "img": "img/testimonials/anshika.jpg",
+      "text": "Eraya Foundation is a shining example of what can be achieved when passion, expertise, and determination come together. Their work is a testament to the power of human kindness and generosity.",
+      "name": "Anshika"
+
+    },
+    {
+      "img": "img/testimonials/default.png",
+      "text": "The Eraya Foundation has truly made a remarkable impact on the lives of countless individuals. Their unwavering commitment to uplifting communities and fostering positive change is evident in every initiative they undertake.",
+      "name": "Nikita"
+    },
+    {
+      "img": "img/testimonials/default.png",
+      "text": "The Eraya Foundation has truly made a remarkable impact on the lives of countless individuals. Their unwavering commitment to uplifting communities and fostering positive change is evident in every initiative they undertake.",
+      "name": "Nikita"
+    },
+    {
       "img": "img/testimonials/default.png",
       "text": "The Eraya Foundation has truly made a remarkable impact on the lives of countless individuals. Their unwavering commitment to uplifting communities and fostering positive change is evident in every initiative they undertake.",
       "name": "Nikita"
@@ -123,24 +139,24 @@
   ],
   "Team": [
     {
+      "img": "img/team/white.jpg",
+      "name": "",
+      "job": ""
+    },
+    {
       "img": "img/testimonials/default.png",
       "name": "Vritti Piplani",
       "job": "Founder"
     },
     {
       "img": "img/testimonials/default.png",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Angel Piplani",
+      "job": "Co-Founder"
     },
     {
-      "img": "img/testimonials/default.png",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/testimonials/default.png",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/white.jpg",
+      "name": "",
+      "job": ""
     }
   ],
   "Contact": {
