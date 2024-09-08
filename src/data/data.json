@@ -144,12 +144,12 @@
       "job": ""
     },
     {
-      "img": "img/testimonials/default.png",
+      "img": "img/team/vritti.jpeg",
       "name": "Vritti Piplani",
       "job": "Founder"
     },
     {
-      "img": "img/testimonials/default.png",
+      "img": "img/team/angel.jpeg",
       "name": "Angel Piplani",
       "job": "Co-Founder"
     },
@@ -160,7 +160,6 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+91 85708 34459",
     "email": "erayafoundation@gmail.com",
     "instagram": "https://www.instagram.com/eraya_foundation/",
@@ -169,24 +168,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-notes-medical",
-      "title": "Period Positive",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-solid fa-child-reaching",
+      "title": "Expand Reach",
+      "text": "We aim to extend our impact to more communities, addressing a wider range of social and environmental issues."
     },
     {
-      "icon": "fa fa-school",
-      "title": "Educate to Empower",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-solid fa-lightbulb",
+      "title": "Inspire Innovation",
+      "text": "We will continue to explore new and innovative approaches to tackle complex challenges and create sustainable solutions."
     },
     {
-      "icon": "fa fa-tooth",
-      "title": "Healthy Smiles",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-solid fa-handshake",
+      "title": "Deepen Parternships",
+      "text": "By Forging stategic partnerships with like-minded organisations, we will apmplify out collective efforts and drive greater change"
     },
     {
-      "icon": "fa fa-user",
-      "title": "Building a Community",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-solid fa-hands-holding-child",
+      "title": "Empower Next Generation",
+      "text": "Investing in the development of the next generation of leaders is a ket priority, ensuring the long-term sustainability of our mission"
     }
   ]
 }
