@@ -11,8 +11,6 @@ import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
-import { DemoSlider } from "./components/demoscroller";
-import { countries } from "./components/data"
 import { Carousel } from "./components/carousel";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
@@ -32,11 +30,7 @@ const App = () => {
       <Header data={landingPageData.Header} />
       <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
-      {/* <Services data={landingPageData.Services} /> */}
       <Gallery data={landingPageData.Gallery} title="Period Positive" />
-      <Carousel data={landingPageData.Test} title="Educate To Empower"/>
-      <Carousel data={landingPageData.Test} title="Healthy Smiles"/>
-      <Carousel data={landingPageData.Test} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />

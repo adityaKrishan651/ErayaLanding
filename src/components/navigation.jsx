@@ -1,6 +1,17 @@
-import React from "react";
+import React, { useState } from "react";
+import { Modal, Button } from "antd";
 
 export const Navigation = (props) => {
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const showModal = () => {
+    setIsModalOpen(true);
+  };
+  const handleOk = () => {
+    setIsModalOpen(false);
+  };
+  const handleCancel = () => {
+    setIsModalOpen(false);
+  };
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
@@ -57,14 +68,24 @@ export const Navigation = (props) => {
                 Contact
               </a>
             </li>
-            {/* <li>
-              <a href="#contact" className="page-scroll">
+            <li></li>
+            <li>
+              <a href="#" onClick={showModal} className="page-scroll">
                 Donate
               </a>
-            </li> */}
+            </li>
           </ul>
         </div>
       </div>
+
+      <Modal
+        title="Donate To Eraya"
+        open={isModalOpen}
+        onOk={handleOk}
+        onCancel={handleCancel}
+      >
+        <img src="img/about.jpg" width="400" height="400"  />
+      </Modal>
     </nav>
   );
 };

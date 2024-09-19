@@ -8,6 +8,17 @@ html {
   width: 100% !important;
   height: 100% !important;
 }
+
+.goal-title {
+  padding-top: 20;
+  margin-top: 30;
+}
+
+.nav-logo {
+  width: 50;
+  height: 50;
+}
+
 h2,
 h3,
 h4 {

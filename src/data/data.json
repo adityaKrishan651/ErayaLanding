@@ -4,7 +4,9 @@
     "paragraph": "The name is of Indian (Sanskrit) origin and means 'Fortune's favorite'. It reflects virtues or desirable qualities, suggesting good luck or somebody favored by the fortune as a result of one's courageous or bold actions."
   },
   "About": {
-    "paragraph": "The Eraya Foundation aims to focus on education, children, and overall community development, emphasizing togetherness. We firmly believe in what Eraya embodies: 'The Fortune's Favorite.' Our strong intent is to instill positive values, essential skills, and the best knowledge, fostering the propagation of ideas and beliefs among all. Together, we can bring out the best in each other. And always remember, Fortune favors the 'BOLD'.",
+    "paragraph1": "The Eraya Foundation thrives on the concept of community-driven progress, with a particular emphasis on children and education. At its core, the foundation seeks to nurture a new generation equipped not just with academic knowledge but also with essential life skills and positive values that inspire growth and cooperation.",
+    "paragraph2": " 'The Fortune's Favourite' is more than just a slogan; it symbolizes the belief that every individual holds untapped potential, which can be unlocked through education, support, and the right environment. The foundation is driven by the idea that, when working together, people can achieve far more than on their own. By fostering a spirit of unity, Eraya encourages collective action to create lasting, positive change in society.",
+    "paragraph3": "Furthermore, Eraya emphasizes boldness in its approach to development. 'Fortune favors the BOLD' serves as a call to action, encouraging individuals to be courageous in their endeavors, challenge the status quo, and step out of their comfort zones. By doing so, they can create opportunities not only for themselves but also for their communities.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -19,7 +21,16 @@
     ]
   },
   "Test": [
-
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/sample3.jpg",
+      "smallImage": "img/portfolio/sample3.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/sample4.jpg",
+      "smallImage": "img/portfolio/sample4.jpg"
+    },
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/sample3.jpg",
@@ -33,78 +44,61 @@
   ],
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Happy Smiles",
       "largeImage": "img/portfolio/1.jpg",
       "smallImage": "img/portfolio/1.jpg",
-      "description": "lorem ipsum"
+      "description": ""
     },
     {
-      "title": "Project Title",
+      "title": "Happy Smiles",
       "largeImage": "img/portfolio/2.jpg",
       "smallImage": "img/portfolio/2.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Period Positive",
       "largeImage": "img/portfolio/3.jpg",
       "smallImage": "img/portfolio/3.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Educate To Empower",
       "largeImage": "img/portfolio/4.jpg",
       "smallImage": "img/portfolio/4.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Food Drive",
       "largeImage": "img/portfolio/5.jpg",
       "smallImage": "img/portfolio/5.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Period Positive",
       "largeImage": "img/portfolio/sample3.jpg",
       "smallImage": "img/portfolio/sample3.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Educate To Empower",
       "largeImage": "img/portfolio/sample4.jpg",
       "smallImage": "img/portfolio/sample4.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/1.jpg",
-      "smallImage": "img/portfolio/1.jpg",
-      "description": "lorem ipsum"
+      "title": "Period Positive",
+      "largeImage": "img/portfolio/7.jpg",
+      "smallImage": "img/portfolio/7.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/2.jpg",
-      "smallImage": "img/portfolio/2.jpg"
+      "title": "Period Positive",
+      "largeImage": "img/portfolio/8.jpg",
+      "smallImage": "img/portfolio/8.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/3.jpg",
-      "smallImage": "img/portfolio/3.jpg"
+      "title": "Educate To Empower",
+      "largeImage": "img/portfolio/9.jpg",
+      "smallImage": "img/portfolio/9.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/4.jpg",
-      "smallImage": "img/portfolio/4.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/5.jpg",
-      "smallImage": "img/portfolio/5.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/sample3.jpg",
-      "smallImage": "img/portfolio/sample3.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/sample4.jpg",
-      "smallImage": "img/portfolio/sample4.jpg"
+      "title": "Happy Smiles",
+      "largeImage": "img/portfolio/10.jpg",
+      "smallImage": "img/portfolio/10.jpg"
     }
-
   ],
   "Services": [
     {
@@ -153,7 +147,6 @@
       "img": "img/testimonials/anshika.jpg",
       "text": "Eraya Foundation is a shining example of what can be achieved when passion, expertise, and determination come together. Their work is a testament to the power of human kindness and generosity.",
       "name": "Anshika"
-
     },
     {
       "img": "img/testimonials/nikita.jpeg",
