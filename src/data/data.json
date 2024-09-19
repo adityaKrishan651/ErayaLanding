@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Fortune's Favourite",
+    "title": "ERAYA",
     "paragraph": "The name is of Indian (Sanskrit) origin and means 'Fortune's favorite'. It reflects virtues or desirable qualities, suggesting good luck or somebody favored by the fortune as a result of one's courageous or bold actions."
   },
   "About": {
@@ -18,11 +18,61 @@
       "Lorem ipsum dolor"
     ]
   },
+  "Test": [
+
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/sample3.jpg",
+      "smallImage": "img/portfolio/sample3.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/sample4.jpg",
+      "smallImage": "img/portfolio/sample4.jpg"
+    }
+  ],
   "Gallery": [
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/1.jpg",
-      "smallImage": "img/portfolio/1.jpg"
+      "smallImage": "img/portfolio/1.jpg",
+      "description": "lorem ipsum"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/2.jpg",
+      "smallImage": "img/portfolio/2.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/3.jpg",
+      "smallImage": "img/portfolio/3.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/4.jpg",
+      "smallImage": "img/portfolio/4.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/5.jpg",
+      "smallImage": "img/portfolio/5.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/sample3.jpg",
+      "smallImage": "img/portfolio/sample3.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/sample4.jpg",
+      "smallImage": "img/portfolio/sample4.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/1.jpg",
+      "smallImage": "img/portfolio/1.jpg",
+      "description": "lorem ipsum"
     },
     {
       "title": "Project Title",
@@ -106,7 +156,7 @@
 
     },
     {
-      "img": "img/testimonials/default.png",
+      "img": "img/testimonials/nikita.jpeg",
       "text": "The Eraya Foundation has truly made a remarkable impact on the lives of countless individuals. Their unwavering commitment to uplifting communities and fostering positive change is evident in every initiative they undertake.",
       "name": "Nikita"
     },
