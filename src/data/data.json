@@ -155,12 +155,12 @@
     },
     {
       "img": "img/testimonials/default.png",
-      "text": "The Eraya Foundation has truly made a remarkable impact on the lives of countless individuals. Their unwavering commitment to uplifting communities and fostering positive change is evident in every initiative they undertake.",
-      "name": "Nikita"
+      "text": "Eraya Foundation has made a huge difference in my life. Their initiatives in empowering women with skill development have provided me with the knowledge and confidence to start my own small business.",
+      "name": "Radhika Sharma"
     },
     {
       "img": "img/testimonials/default.png",
-      "text": "The Eraya Foundation has truly made a remarkable impact on the lives of countless individuals. Their unwavering commitment to uplifting communities and fostering positive change is evident in every initiative they undertake.",
+      "text": "The educational programs by Eraya Foundation have been life-changing for my children. In our village, access to quality education was limited, but with Eraya Foundation's free tutoring and resources, my children now have the opportunity to learn and dream big.",
       "name": "Nikita"
     },
     {
@@ -203,7 +203,8 @@
     }
   ],
   "Contact": {
-    "phone": "+91 85708 34459",
+    "phone1": "+91 93062 12863",
+    "phone2": "+91 85708 34480",
     "email": "erayafoundation@gmail.com",
     "instagram": "https://www.instagram.com/eraya_foundation/",
     "linkedin": "https://www.linkedin.com/company/eraya-foundation/",

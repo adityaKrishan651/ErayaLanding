@@ -84,7 +84,9 @@ export const Navigation = (props) => {
         onOk={handleOk}
         onCancel={handleCancel}
       >
-        <img src="img/about.jpg" width="400" height="400"  />
+        <div style={{textAlign: "center"}}>
+          <img src="img/qrcode.jpeg" width="400"  />
+        </div>
       </Modal>
     </nav>
   );
