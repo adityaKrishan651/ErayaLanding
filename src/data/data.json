@@ -42,6 +42,67 @@
       "smallImage": "img/portfolio/sample4.jpg"
     }
   ],
+  "PeriodPositive": [
+
+    {
+      "title": "Period Positive",
+      "largeImage": "img/portfolio/3.jpg",
+      "smallImage": "img/portfolio/3.jpg"
+    },
+    {
+      "title": "Period Positive",
+      "largeImage": "img/portfolio/sample3.jpg",
+      "smallImage": "img/portfolio/sample3.jpg"
+    },
+    {
+      "title": "Period Positive",
+      "largeImage": "img/portfolio/7.jpg",
+      "smallImage": "img/portfolio/7.jpg"
+    },
+    {
+      "title": "Period Positive",
+      "largeImage": "img/portfolio/8.jpg",
+      "smallImage": "img/portfolio/8.jpg"
+    }
+  ],
+  "HappySmiles": [
+
+    {
+      "title": "Happy Smiles",
+      "largeImage": "img/portfolio/1.jpg",
+      "smallImage": "img/portfolio/1.jpg",
+      "description": ""
+    },
+    {
+      "title": "Happy Smiles",
+      "largeImage": "img/portfolio/2.jpg",
+      "smallImage": "img/portfolio/2.jpg"
+    },
+    {
+      "title": "Happy Smiles",
+      "largeImage": "img/portfolio/10.jpg",
+      "smallImage": "img/portfolio/10.jpg"
+    }
+  ],
+  "EducateToEmpower" : [
+
+    {
+      "title": "Educate To Empower",
+      "largeImage": "img/portfolio/4.jpg",
+      "smallImage": "img/portfolio/4.jpg"
+    },
+    {
+      "title": "Educate To Empower",
+      "largeImage": "img/portfolio/sample4.jpg",
+      "smallImage": "img/portfolio/sample4.jpg"
+    },
+
+    {
+      "title": "Educate To Empower",
+      "largeImage": "img/portfolio/9.jpg",
+      "smallImage": "img/portfolio/9.jpg"
+    }
+  ],
   "Gallery": [
     {
       "title": "Happy Smiles",
@@ -161,7 +222,7 @@
     {
       "img": "img/testimonials/default.png",
       "text": "The educational programs by Eraya Foundation have been life-changing for my children. In our village, access to quality education was limited, but with Eraya Foundation's free tutoring and resources, my children now have the opportunity to learn and dream big.",
-      "name": "Nikita"
+      "name": "Atul Kumar"
     },
     {
       "img": "img/testimonials/tamanna.jpg",
