@@ -2,6 +2,10 @@ import React from "react";
 import "./carousel.css";
 
 export const Carousel = (props) => {
+
+  const instagramRedirect = () => {
+    window.open('https://www.instagram.com/eraya_foundation/', '_blank');
+  }
   return (
     <div>
       <div className="custom-container">
@@ -12,7 +16,7 @@ export const Carousel = (props) => {
                 <h2 className="custom-title">{props.title}</h2>
                 <p className="custom-description">{props.description}</p>
               </header>
-              <a href="#" className="custom-button">
+              <a onClick={instagramRedirect} href="" className="custom-button">
                 View All
               </a>
             </div>
