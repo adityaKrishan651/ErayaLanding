@@ -10,7 +10,6 @@ import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
-import { Carousel } from "./components/carousel";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -29,10 +28,17 @@ const App = () => {
       <Header data={landingPageData.Header} />
       <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
-      <Gallery data={landingPageData.Gallery} title="Period Positive" />
-      <Carousel data={landingPageData.PeriodPositive} title="Period Positive" />
-      <Carousel data={landingPageData.HappySmiles} title="Happy Smiles" />
-      <Carousel data={landingPageData.EducateToEmpower} title="Educate To Empower" />
+      <Gallery data={landingPageData} title="Period Positive" />
+      {/* <div style={{display: "flex", alignItems: "center", justifyContent: "center", padding: 10}}>
+        <div style={{padding: 10}}>
+          <Carousel data={landingPageData.PeriodPositive} title="Period Positive" />
+          <Carousel data={landingPageData.HappySmiles} title="Happy Smiles" />
+        </div>
+        <div style={{padding: 5}}>
+          <Carousel data={landingPageData.EducateToEmpower} title="Educate To Empower" />
+          <Carousel data={landingPageData.EarthWellWishers} title="Earth Well Wishers" />
+        </div>
+      </div> */}
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />

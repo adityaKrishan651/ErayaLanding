@@ -1,7 +1,6 @@
 {
   "Header": {
     "title": "ERAYA",
-    "tagline": "Fortune's Favourite",
     "paragraph": "The name is of Indian (Sanskrit) origin and means 'Fortune's favorite'. It reflects virtues or desirable qualities, suggesting good luck or somebody favored by the fortune as a result of one's courageous or bold actions."
   },
   "About": {
@@ -43,31 +42,51 @@
       "smallImage": "img/portfolio/sample4.jpg"
     }
   ],
-  "PeriodPositive": [
-
+  "GiftOfHope": [
     {
-      "title": "Period Positive",
-      "largeImage": "img/portfolio/3.jpg",
-      "smallImage": "img/portfolio/3.jpg"
+      "title": "Gift of Hope",
+      "largeImage": "img/portfolio/20.jpg",
+      "smallImage": "img/portfolio/20.jpg"
+    },
+    {
+      "title": "Gift of Hope",
+      "largeImage": "img/portfolio/16.jpg",
+      "smallImage": "img/portfolio/16.jpg"
+    },
+    {
+      "title": "Gift of Hope",
+      "largeImage": "img/portfolio/17.jpg",
+      "smallImage": "img/portfolio/17.jpg"
     },
     {
       "title": "Period Positive",
       "largeImage": "img/portfolio/sample3.jpg",
       "smallImage": "img/portfolio/sample3.jpg"
-    },
+    }
+  ],
+  "PeriodPositive": [
     {
       "title": "Period Positive",
-      "largeImage": "img/portfolio/7.jpg",
-      "smallImage": "img/portfolio/7.jpg"
+      "largeImage": "img/portfolio/22.jpg",
+      "smallImage": "img/portfolio/22.jpg"
     },
     {
       "title": "Period Positive",
       "largeImage": "img/portfolio/8.jpg",
       "smallImage": "img/portfolio/8.jpg"
+    },
+    {
+      "title": "Period Positive",
+      "largeImage": "img/portfolio/24.jpg",
+      "smallImage": "img/portfolio/24.jpg"
+    },
+    {
+      "title": "Period Positive",
+      "largeImage": "img/portfolio/23.jpg",
+      "smallImage": "img/portfolio/23.jpg"
     }
   ],
   "HappySmiles": [
-
     {
       "title": "Happy Smiles",
       "largeImage": "img/portfolio/1.jpg",
@@ -80,13 +99,22 @@
       "smallImage": "img/portfolio/2.jpg"
     },
     {
+      "title": "Period Positive",
+      "largeImage": "img/portfolio/21.jpg",
+      "smallImage": "img/portfolio/21.jpg"
+    },
+    {
       "title": "Happy Smiles",
-      "largeImage": "img/portfolio/10.jpg",
-      "smallImage": "img/portfolio/10.jpg"
+      "largeImage": "img/portfolio/18.jpg",
+      "smallImage": "img/portfolio/18.jpg"
     }
   ],
-  "EducateToEmpower" : [
-
+  "EducateToEmpower": [
+    {
+      "title": "Period Positive",
+      "largeImage": "img/portfolio/3.jpg",
+      "smallImage": "img/portfolio/3.jpg"
+    },
     {
       "title": "Educate To Empower",
       "largeImage": "img/portfolio/4.jpg",
@@ -216,19 +244,19 @@
       "name": "Nikita"
     },
     {
-      "img": "img/testimonials/default.png",
-      "text": "Eraya Foundation has made a huge difference in my life. Their initiatives in empowering women with skill development have provided me with the knowledge and confidence to start my own small business.",
-      "name": "Radhika Sharma"
-    },
-    {
-      "img": "img/testimonials/default.png",
-      "text": "The educational programs by Eraya Foundation have been life-changing for my children. In our village, access to quality education was limited, but with Eraya Foundation's free tutoring and resources, my children now have the opportunity to learn and dream big.",
-      "name": "Atul Kumar"
+      "img": "img/testimonials/divya.jpg",
+      "text": "Joined Eraya Foundation for one donation drive; it was such an overwhelming experience for me, plus enriching. I was able to witness the real work and change they are bringing to the society.",
+      "name": "Divya Arora"
     },
     {
       "img": "img/testimonials/tamanna.jpg",
       "text": "The Eraya Foundation, founded by two inspiring sisters, is a shining example of how true dedication and hard work can bring about real change. Their commitment to grassroots initiatives is not just about making a difference; it's about bringing genuine happiness to the faces of those they serve.",
       "name": "Tamanna Vohra"
+    },
+    {
+      "img": "img/testimonials/vandana.jpg",
+      "text": "People always say a lot, but they are doing it. The Eraya Foundation is one more milestone in our society that is making an advanced change for the sustainable future.",
+      "name": "Vandana"
     },
     {
       "img": "img/testimonials/prabhat.jpg",
@@ -239,7 +267,7 @@
       "img": "img/testimonials/deepanshu.jpg",
       "text": "When we see the society in today's scenario, it is very difficult to see the organisation who works selflessly,but when I got to know about the working of Eraya foundation led by two sisters with an aim to help the needy people and underprivileged children, It was really inspiring.",
       "name": "Deepanhu Bansal",
-      "position": "Distt Chairman Haryana Pradesh Congress"
+      "position": "Distt Chairman Haryana Congress"
     }
   ],
   "Team": [

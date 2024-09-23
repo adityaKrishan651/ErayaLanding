@@ -14,7 +14,7 @@ export const Carousel = (props) => {
             <div className="custom-text-container">
               <header>
                 <h2 className="custom-title">{props.title}</h2>
-                <p className="custom-description">{props.description}</p>
+                <p className="custom-description" style={{color: "black"}}>{props.description}</p>
               </header>
               <a onClick={instagramRedirect} href="" className="custom-button">
                 View All

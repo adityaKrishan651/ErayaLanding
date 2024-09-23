@@ -8,9 +8,9 @@ export const Header = (props) => {
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
-                <h1>
+                <h1 style={{fontSize: 100}}>
                   {props.data ? props.data.title : "Loading"}{" "}
-                  <span style={{fontSize: 15 }}>{props.data.tagline}</span>
+                  <span style={{fontSize: 18}}>Fortune's Favourite</span>
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a

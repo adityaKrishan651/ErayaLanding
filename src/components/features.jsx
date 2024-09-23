@@ -13,8 +13,8 @@ export const Features = (props) => {
                 <div key={`${d.title}-${i}`} className="col-xs-6 col-md-3">
                   {" "}
                   <i class={d.icon}></i>
-                  <h3>{d.title}</h3>
-                  <p>{d.text}</p>
+                  <h3 style={{fontWeight: "bold"}}>{d.title}</h3>
+                  <p style={{  color: "black"}}>{d.text}</p>
                 </div>
               ))
             : "Loading..."}
