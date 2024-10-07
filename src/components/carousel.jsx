@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./carousel.css";
 
 export const Carousel = (props) => {
@@ -6,8 +6,9 @@ export const Carousel = (props) => {
   const instagramRedirect = () => {
     window.open('https://www.instagram.com/eraya_foundation/', '_blank');
   }
+
   return (
-    <div>
+    <div data-aos={props.animation}>
       <div className="custom-container">
         <div className="custom-grid-wrapper">
           <div className="custom-centered-content custom-bg-light">
